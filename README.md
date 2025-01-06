@@ -4,7 +4,7 @@ A responsive Rock Paper Scissors game created using HTML, CSS, and JavaScript. C
 
 <br>
 
-🌟 Features : 
+# 🌟 Features : 
 <br>
 <ul>
     <li> 🎮 Interactive Gameplay: Play against the computer with real-time feedback. </li>
@@ -16,7 +16,7 @@ A responsive Rock Paper Scissors game created using HTML, CSS, and JavaScript. C
 
 <br>
   
-🛠️ Technologies Used : 
+# 🛠️ Technologies Used : 
 <br>
 <ul>
         <li> HTML5: For the structure and layout of the game. </li>
@@ -26,7 +26,7 @@ A responsive Rock Paper Scissors game created using HTML, CSS, and JavaScript. C
 
 <br>
 
-🌟 Future Enhancements :
+# 🌟 Future Enhancements :
 <br>
 <ul>
         <li>🤖 Add a "Best of 5" or "Best of 3" mode.</li>
@@ -37,7 +37,7 @@ A responsive Rock Paper Scissors game created using HTML, CSS, and JavaScript. C
 
 <br>
 
-🤝 Contributing : 
+# 🤝 Contributing : 
 <br>
 Contributions are welcome : 
 <br>
