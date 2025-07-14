@@ -1,8 +1,12 @@
-# ✂️📄✊ Rock Paper Scissors Game
+# ✊🏻✂️📄 Rock Paper Scissors Game
 
 A responsive Rock Paper Scissors game created using HTML, CSS, and JavaScript. Challenge the computer in this classic game of strategy, chance, and fun! 🎮
 
 ---
+
+
+
+<img width="1110" height="600" alt="image" src="https://github.com/user-attachments/assets/a0641803-b076-4da9-9fdb-c46d7fb9fc39" />
 
 ## 🔗 Live Demo
 
